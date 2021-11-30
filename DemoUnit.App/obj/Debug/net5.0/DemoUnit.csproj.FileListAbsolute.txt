@@ -1,0 +1,16 @@
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\bin\Debug\net5.0\DemoUnit.exe
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\bin\Debug\net5.0\DemoUnit.deps.json
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\bin\Debug\net5.0\DemoUnit.runtimeconfig.json
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\bin\Debug\net5.0\DemoUnit.runtimeconfig.dev.json
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\bin\Debug\net5.0\DemoUnit.dll
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\bin\Debug\net5.0\ref\DemoUnit.dll
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\bin\Debug\net5.0\DemoUnit.pdb
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\obj\Debug\net5.0\DemoUnit.csprojAssemblyReference.cache
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\obj\Debug\net5.0\DemoUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\obj\Debug\net5.0\DemoUnit.AssemblyInfoInputs.cache
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\obj\Debug\net5.0\DemoUnit.AssemblyInfo.cs
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\obj\Debug\net5.0\DemoUnit.csproj.CoreCompileInputs.cache
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\obj\Debug\net5.0\DemoUnit.dll
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\obj\Debug\net5.0\ref\DemoUnit.dll
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\obj\Debug\net5.0\DemoUnit.pdb
+C:\Users\AlisaSkrynko\RiderProjects\DemoUnit\DemoUnit\obj\Debug\net5.0\DemoUnit.genruntimeconfig.cache
